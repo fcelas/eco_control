@@ -36,7 +36,7 @@ EcoControl é um aplicativo móvel desenvolvido em Flutter projetado para ajudar
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/eco_control.git
+git clone https://github.com/fcelas/eco_control.git
 ```
 
 2. Instale as dependências
