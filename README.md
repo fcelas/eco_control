@@ -1,7 +1,7 @@
 ## EcoControl 🔋💡
 ## Mockup
 
-![EcoCotrol](img/mockup.jpg)
+![EcoCotrol](mockup.jpg)
 
 ## Visão Geral
 
